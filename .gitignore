@@ -2,3 +2,7 @@
 
 dist
 .log
+terraform/.terraform
+terraform/kindcluster-config
+terraform/terraform.*
+terraform/.terraform.*
